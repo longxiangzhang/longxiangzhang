@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bestzlx
+- 👋 Hi, I’m @zhang, longxiang
 - 👀 I’m interested in speech and language processing
 - 🌱 I’m currently a Master student in Peking University
 - 💞️ I’m looking to collaborate on speech recogniton, natural language processing
